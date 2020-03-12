@@ -33,7 +33,7 @@ Si eres un host con cuenta pro o licensiada cuando estes hosteando una sesión
 te aparecerá un botón en la parte inferior derecha para administrar breakout
 rooms.
 
-![Imagen de botón breakout room zoom](href="https://lh5.googleusercontent.com/0dkHuDoHFFvtLUppzptXsaElOvY-dE3WYYOn50kiAu8B7Obbi_KzNgl9uMLLJo0EhICMRWz3NtbLHHHg8YKxt6FKxY23HZGvijGsTx9Zqy0pAns1vRj2556CmGVmw7rzRZyWU6srEJE")
+![Imagen de botón breakout room zoom](https://lh5.googleusercontent.com/0dkHuDoHFFvtLUppzptXsaElOvY-dE3WYYOn50kiAu8B7Obbi_KzNgl9uMLLJo0EhICMRWz3NtbLHHHg8YKxt6FKxY23HZGvijGsTx9Zqy0pAns1vRj2556CmGVmw7rzRZyWU6srEJE)
 
 Al hacer clic en el botón te aparecerá la opción de crear las salitas. Lo
 ideal es que planees con anticipación cuál es el máximo número de salitas a
