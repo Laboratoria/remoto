@@ -37,10 +37,18 @@ rooms.
 
 Al hacer clic en el botón te aparecerá la opción de crear las salitas. Lo
 ideal es que planees con anticipación cuál es el máximo número de salitas a
-utilizar en la sesión para poder crearlas desde el inicio, así no las necesites,
-todo la sesión, ya que una vez creadas las salitas no se pueden crear más. Para
-ello tienes que elegir la opción manual, para luego poder asignar a cada
-participante a la sala donde trabajará. 
+utilizar en la sesión para poder crearlas desde el inicio, así no las necesites
+toda la sesión, ya que una vez creadas las salitas, si queremos agregar más
+tendremos que "recrear los breakout rooms" y reseteará los grupos que ya tienes
+asignados a cada salita. Para ello tienes que elegir la opción manual, para
+luego poder asignar a cada participante a la sala donde trabajará. 
+
+_También se pueden crear las salitas desde que agendas un meeting. Puedes ver
+las indicaciones [aquí](https://support.zoom.us/hc/en-us/articles/360032752671)_
+
+_Si no te aparece la opción de breakout rooms anda a los [settings de Zoom](https://zoom.us/profile/setting)
+y en las opciones avanzadas asegúrate que tienes la opción de "breakout rooms"
+activada._
 
 ![Inicio breakout rooms](https://lh3.googleusercontent.com/_Ad3NNE5Wctnrj1pd2WDR1nITkRGvJOYtAhDDEsR4QMu3i7hMru34NDakA4_2QGOZRHBUH52XfWwigCFA8UgJr2LOkrsJe1nYDM8VN8JWG1t_8iCt3DrngFW7OJyBWCd3et6hmnYlJA)
 
